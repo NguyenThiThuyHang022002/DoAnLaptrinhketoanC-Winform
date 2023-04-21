@@ -1,0 +1,15 @@
+D:\G102NTTHSalaryCTVT\bin\Debug\G1.exe.config
+D:\G102NTTHSalaryCTVT\bin\Debug\G1.exe
+D:\G102NTTHSalaryCTVT\bin\Debug\G1.pdb
+D:\G102NTTHSalaryCTVT\obj\Debug\G102NTTHSalaryCTVT.csproj.AssemblyReference.cache
+D:\G102NTTHSalaryCTVT\obj\Debug\G102NTTHSalaryCTVT.csproj.SuggestedBindingRedirects.cache
+D:\G102NTTHSalaryCTVT\obj\Debug\G1.Fr3XLRBTVDMNS.resources
+D:\G102NTTHSalaryCTVT\obj\Debug\G1.Fr4Phieuchamcong.resources
+D:\G102NTTHSalaryCTVT\obj\Debug\G1.Fr5PhieuLuong.resources
+D:\G102NTTHSalaryCTVT\obj\Debug\G1.FrGoodsMain.resources
+D:\G102NTTHSalaryCTVT\obj\Debug\G1.FrMain.resources
+D:\G102NTTHSalaryCTVT\obj\Debug\G1.Properties.Resources.resources
+D:\G102NTTHSalaryCTVT\obj\Debug\G102NTTHSalaryCTVT.csproj.GenerateResource.cache
+D:\G102NTTHSalaryCTVT\obj\Debug\G102NTTHSalaryCTVT.csproj.CoreCompileInputs.cache
+D:\G102NTTHSalaryCTVT\obj\Debug\G1.exe
+D:\G102NTTHSalaryCTVT\obj\Debug\G1.pdb

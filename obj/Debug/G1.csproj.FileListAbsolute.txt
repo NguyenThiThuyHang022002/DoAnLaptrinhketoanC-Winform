@@ -1,0 +1,15 @@
+D:\pastn\G1\bin\Debug\G1.exe.config
+D:\pastn\G1\bin\Debug\G1.exe
+D:\pastn\G1\bin\Debug\G1.pdb
+D:\pastn\G1\obj\Debug\G1.csproj.AssemblyReference.cache
+D:\pastn\G1\obj\Debug\G1.csproj.SuggestedBindingRedirects.cache
+D:\pastn\G1\obj\Debug\G1.FrGoodsMain.resources
+D:\pastn\G1\obj\Debug\G1.FrMain.resources
+D:\pastn\G1\obj\Debug\G1.Properties.Resources.resources
+D:\pastn\G1\obj\Debug\G1.csproj.GenerateResource.cache
+D:\pastn\G1\obj\Debug\G1.csproj.CoreCompileInputs.cache
+D:\pastn\G1\obj\Debug\G1.exe
+D:\pastn\G1\obj\Debug\G1.pdb
+D:\pastn\G1\obj\Debug\G1.Fr3XLRBTVDMNS.resources
+D:\pastn\G1\obj\Debug\G1.Fr4Phieuchamcong.resources
+D:\pastn\G1\obj\Debug\G1.Fr5PhieuLuong.resources
